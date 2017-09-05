@@ -24,7 +24,6 @@ public class BillDAO {
 			conn = DBConnection.getConnection();
 			
 			 psmt = conn.prepareStatement(query);
-			System.out.println("Query for for search item--->"+query);
 			psmt.setString(1,dataString);
 		
 			 rSet=psmt.executeQuery();
