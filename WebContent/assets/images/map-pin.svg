@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="40px" viewBox="0 0 24 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>map-pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,39 C14,23.6832288 23.0499399,20.0519884 23,12 C23,5.92486775 18.0751322,1 12,1 C5.92486775,1 1,5.92486775 1,12 C1.16688984,19.8258397 10.6063354,23.8017307 12,39 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="24.0002059" height="40">
+            <rect x="0" y="0" width="24.0002059" height="40" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map-pin">
+            <g id="Oval-10">
+                <use fill="#E9E9EA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#C4C5C8" mask="url(#mask-2)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-1"></use>
+            </g>
+            <circle id="Oval-11" fill="#A7A8AD" cx="12" cy="12" r="4"></circle>
+        </g>
+    </g>
+</svg>

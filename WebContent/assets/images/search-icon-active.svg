@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>search-field-active</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="search-field-active" fill="#EF3934">
+            <g id="Rectangle-+-Oval">
+                <rect id="Rectangle-50" transform="translate(11.274874, 11.274874) rotate(-45.000000) translate(-11.274874, -11.274874) " x="10.2748737" y="8.05771647" width="2" height="6.43431444" rx="1"></rect>
+                <path d="M12,6 C12,2.6862915 9.3137085,0 6,0 C2.6862915,0 0,2.6862915 0,6 C0,9.3137085 2.6862915,12 6,12 C9.3137085,12 12,9.3137085 12,6 Z M2,6 C2,3.790861 3.790861,2 6,2 C8.209139,2 10,3.790861 10,6 C10,8.209139 8.209139,10 6,10 C3.790861,10 2,8.209139 2,6 Z" id="Oval"></path>
+            </g>
+        </g>
+    </g>
+</svg>
