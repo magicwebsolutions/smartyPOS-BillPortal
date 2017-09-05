@@ -53,7 +53,8 @@
 	
 	<div id="content">
 	<label style ="margin-right:6%"><b>S.NO</b></label>
-	<label style ="margin-right: 9%"><b>ITEM NAME</b></label>
+	<label style ="margin-right: 9%"><b>sss NAME</b></label>
+	
 	<label style ="margin-right: 7.5%"><b>QTY</b></label>
 	<label style ="margin-right: 8%"><b>UNIT</b></label>
 	<label style ="margin-right: 9%"><b>PRICE</b></label>
@@ -316,6 +317,7 @@ $('#myButton2').click(function(event) {
     event.preventDefault(); //
     resetForm();
 });
+
 
 </script>
 </body>

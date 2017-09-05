@@ -22,6 +22,8 @@
     
 <script>
 function onLoadConditions(){
+	alertify.logPosition("bottom right");
+	alertify.alert("Successfully Logged In.!");
   	document.getElementById("alertUserName").style.display = 'none';
   	document.getElementById("alertPassword").style.display = 'none';    	
 }
@@ -77,7 +79,7 @@ function logincredenChange(type){
 }
 </script>
 </head>
-<body onload = "onLoadConditions()">
+<body onload = "onLoadConditions();HelloAlert();">
 <div class="login-page fade-in" style="background-color: #689a9c;">
         <div class="login-form">
             <a href="#">
