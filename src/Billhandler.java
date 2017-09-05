@@ -206,7 +206,6 @@ import java.util.*;
 						request.getRequestDispatcher("Billing_Screen.jsp").forward(request, response);
 					}
 					else{
-						//CREATING NEW BILL NUMBER..
 						billNo = obj.getBillNumber();
 						System.out.println("inside NEWBILL EVENT...billnumber::"+billNo);
 						request.setAttribute("BILL_Number",billNo);
